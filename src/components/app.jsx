@@ -6,7 +6,11 @@ import Footer from './Footer.jsx';
 
 
 function App () {
-    return <div><Header /><Note /> <Footer /></div> 
+    return <div>
+    <Header />
+    <Note /> 
+    <Footer />
+    </div> 
 };
 
 export default App;
